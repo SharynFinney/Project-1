@@ -1,0 +1,80 @@
+**SPECIAL NOTE:** 
+
+Team Member Abbreviated Names Are Next To Resources They Provided For The Wiki >>> 
+
+DScott / JBuruss / SFinney
+
+***
+
+### List of Core Functionality APIs Used For This Project
+
+**1. You Tube Analytics API:** https://developers.google.com/youtube/v3/code_samples/javascript 
+
+**2. You Tube Data API:** https://developers.google.com/youtube/v3/code_samples/javascript
+
+**_Posted By DScott & SFinney (Thurs - 6/29/2017)_** 
+ 
+_Source Note: YouTube Developer API Resources: https://www.youtube.com/yt/dev/api-resources.html_
+_Source Note: YouTube Documentation Page: https://developers.google.com/youtube/documentation/_
+_Tutorial/Ref Note: Help With YouTubeSearch API Documentation: https://www.youtube.com/watch?v=-vH2eZAM30s_
+
+----
+Note: DScott Provided Tutorial Video Guide Which Provides Additional Instruction Regarding The YouTubeSearch API Call Process (Sun - 7/2/2017)
+----
+
+
+
+**3. Postman API:** https://www.getpostman.com/
+
+_Source Note: The Postman API Will Be Used To Manage The Data For All Of The APIs Used For The Project._
+
+**_Posted By SFinney (Fri - 6/30/2017)_**
+
+***
+
+### List of Advanced Functionality APIs Used For _Staying On Top Of Tech News_
+
+
+**4. TechCrunch API:** https://newsapi.org/techcrunch-api
+
+_Source Note: Using TechCrunch We Can Recommend Articles For The User To Read To Stay On Top Of Tech News They May Be Asked About In An Interview_
+
+**_Posted By SFinney (Fri - 6/30/2017)_**
+
+***
+
+### List of Advanced Functionality APIs Used For _Account Creation_ 
+
+_Note: We Want To Giver Users The Option To Create An Account and To Log-In To Their Account Using Their Social Media Accounts/Log-In Information_
+ 
+**5. Sound Cloud API:** https://developers.soundcloud.com/docs/api/guide
+
+**_Posted By SFinney (Fri - 6/30/2017)_**
+
+
+
+**6. LinkedIn API:** https://developer.linkedin.com/#
+
+_Note: Using LinkedIN We Can Also Recommend Tech Industry Influencers and Companies They Should Follow._
+
+**_Posted By SFinney (Fri - 6/30/2017)_**
+
+
+
+**7. Git Book:** https://www.gitbook.com 
+
+_Note: May Use Git Book To Create TextBook AND/OR API Documentation Doc._
+
+**_Posted By SFinney (Fri - 6/30/2017)_**
+
+
+***
+
+### List of Libraries Used For This Project
+
+
+**8. Google Material Design Lite CSS Library / a.k.a. Google MDL:** https://getmdl.io/
+
+_Source Note: At the very bottom of the Google MDL CSS Library webpage, click the link that says "Download Kit"._
+
+**_Posted By SFinney (Fri - 6/30/2017)_**
